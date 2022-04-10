@@ -6,7 +6,7 @@ If you want to keep something safe (e.g. Documents, money or anything else) you 
 2. Download the .ino file
 3. Upload code to board
 ## Warning
-You arre **not** allowed to claim this code as your own. 
+You are **not** allowed to claim this code as your own. 
 You are free to change anything from the code as long as you do not claim it as your own.
 ## Video
 
